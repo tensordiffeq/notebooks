@@ -9,4 +9,6 @@ Here we will list example Ipython Notebooks (either through Jupyter or Colab) to
 
 3. Parameter Estimation (Inverse Modeling) Using TensorDiffEq <a href="https://colab.research.google.com/drive/1u6nZsgvSpB7LJ6G3JSRGPlrqdX06CMqW?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+4. Steady State 2D Helmholtz  <a href="https://colab.research.google.com/drive/14LGx-UOPKweV1ctMkgxlh9JTn-YTrcat?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 Link to workshop recording coming soon!
